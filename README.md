@@ -1,2 +1,2 @@
 # notes-app
-Made using node
+Made using node for learning.

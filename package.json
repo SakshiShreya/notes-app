@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "Made using node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SakshiShreya/notes-app.git"
+  },
+  "author": "Sakshi Shreya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SakshiShreya/notes-app/issues"
+  },
+  "homepage": "https://github.com/SakshiShreya/notes-app#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "validator": "^10.11.0"
+  }
+}
